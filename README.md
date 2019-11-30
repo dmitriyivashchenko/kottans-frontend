@@ -2,12 +2,9 @@
 
 ## General Basics
 
-### Linux CLI, and HTTP
+### [1. Linux CLI, and HTTP](task_linux_cli/LINUX_CLI.md).
 
-
-![Linux CLI and Networking](task_linux_cli/LINUX_CLI.md).
-
-## Git Collaboration
+### Git Collaboration
 
 ![Git Collaboration Screenshot](https://github.com/dmitriyivashchenko/kottans-frontend/blob/master/task_git_collaboration/Screenshot_2.png)
 
